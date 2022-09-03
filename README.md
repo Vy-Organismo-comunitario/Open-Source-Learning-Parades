@@ -2,4 +2,5 @@
 
 🧾 [XLS](https://docs.google.com/spreadsheets/d/1eR10kDUwCEiQm-wIDg8jtBEXsv9Rgd2cG3RGrW87M9o/edit?usp=sharing) / 📀 [Mirror](https://mirror.xyz/0xE62F15C0B55ef59dFcE2E5aD51dBfAceD87378Da/Jl0S40WkQ6l_1DGL0u5Hxp0NEiXQhB1aM0a2RLxPyzc)  [  🎞 🎫 🏆](https://gitcoin.co/grants/7434/cocktails-and-caguamas-movie-night)
 
+Introduccion en spanglish [del articulo](https://gitcoin.co/blog/infinite-gardens) y buzón de herramientas futuras
 
